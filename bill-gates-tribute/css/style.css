@@ -1,0 +1,14 @@
+body {
+  margin-top: 60px;
+}
+h1{
+  color:#cbbb00;
+  font-family: "Monotype Corsiva";
+}
+.H3{
+  text-decoration: underline; 
+  font-weight: bold;
+}
+.image{
+  width:150px;
+}
